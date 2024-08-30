@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/moosaTae/CICD_LMWN/internal/calculator"
+	"github.com/MoosaTae/CICD_LMWN/internal/calculator"
 )
 
 func main() {
