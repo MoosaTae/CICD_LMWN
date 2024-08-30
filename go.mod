@@ -1,6 +1,6 @@
 module github.com/MoosaTae/CICD_LMWN
 
-go 1.21.1
+go 1.23.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
